@@ -1,0 +1,20 @@
+{
+  "server": {
+    "privateKey": "gDStdWcOGiyzAkrGG8LgF0Vv+osRSZu+UnnWKcgxu3E=",
+    "publicKey": "8dSYnIp91jYwa7S3BrQHao3McdziObPjU1Dq8LVLmGQ=",
+    "address": "10.8.0.1"
+  },
+  "clients": {
+    "ea5204b6-4c7e-4a64-9e72-24ab6bef423a": {
+      "id": "ea5204b6-4c7e-4a64-9e72-24ab6bef423a",
+      "name": "thuan-xiaomi",
+      "address": "10.8.0.2",
+      "privateKey": "YKrkeTXlroCpv0zimzTHQPy6debO8XWcOWQmXxr/9VU=",
+      "publicKey": "hD/zEwU8RleSQKoz2I+AwY2qwVpyILCI27JfXU21TWQ=",
+      "preSharedKey": "R9ysOKAIvbFnn3ssYvAvJ5qvOFFbJvGCY3aIFEJuWn4=",
+      "createdAt": "2025-07-08T14:41:54.605Z",
+      "updatedAt": "2025-07-08T14:41:54.605Z",
+      "enabled": true
+    }
+  }
+}
