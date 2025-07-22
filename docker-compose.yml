@@ -4,7 +4,7 @@ services:
     environment:
       # ⚠️ Required:
       # Change this to your host's public address
-      - WG_HOST=xxx.duckdns.org
+      - WG_HOST=anh.vozer.fun
 
       # Optional:PASSWORD_HASH
       - PASSWORD_HASH=$$2a$12$$KfP0j7ydyazgNqFWwP/A5uCM3KepqDIJlNfbpy8c3wTggxrvgMzra
